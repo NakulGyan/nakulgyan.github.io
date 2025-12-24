@@ -20,15 +20,32 @@ author: Nakul Gyan
 ###############################################
 
 navbar-links:
-  CS: "category/cs"
-  
-  Game Dev:
-    - Unity: "category/unity"
-    - Unreal Engine: "category/unreal"
-    - Engine: "category/gameengine"
-    
-  Server: "category/server"
-  
+  CS:
+    - "Algorithms"
+    - "Data Structures"
+    - "Computer Organization"
+    - "Operating Systems"
+    - "Computer Networks"
+  Unity:
+    - "CSharp"
+    - "Unity"
+    - "Asset Bundle"
+    - "Shader Graph"
+    - "Network"
+    - "Editor"
+    - "MixAndJam"
+    - "CardsRPG1"
+    - "CardsRPG2"
+    - "DNF1"
+    - "DNF2"
+    - "Questions"
+  Server:
+    - "ASP.Net Core Web API"
+    - "MongoDB"
+  GameEngine:
+    - "CPP"
+    - "OpenGL"
+    - "TdGame"
   About: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
