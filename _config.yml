@@ -20,13 +20,13 @@ author: Nakul Gyan
 ###############################################
 
 navbar-links:
-  CS:
+  ComputerScience:
     - Algorithms:            "#"
     - Data Structures:       "#"
     - Computer Organization: "#"
     - Operating Systems:     "#"
     - Computer Networks:     "#"
-  Unity:
+  UnityEngine:
     - CSharp:                 "#"
     - Unity:                  "#"
     - Asset Bundle:           "#"
