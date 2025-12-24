@@ -20,7 +20,16 @@ author: Nakul Gyan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  CS: "category/cs"
+  
+  Game Dev:
+    - Unity: "category/unity"
+    - Unreal Engine: "category/unreal"
+    - Engine: "category/gameengine"
+    
+  Server: "category/server"
+  
+  About: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
