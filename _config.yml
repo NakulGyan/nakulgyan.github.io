@@ -21,32 +21,32 @@ author: Nakul Gyan
 
 navbar-links:
   CS:
-    - Algorithms
-    - Data Structures
-    - Computer Organization
-    - Operating Systems
-    - Computer Networks
+    - Algorithms:            "#"
+    - Data Structures:       "#"
+    - Computer Organization: "#"
+    - Operating Systems:     "#"
+    - Computer Networks:     "#"
   Unity:
-    - CSharp
-    - Unity
-    - Asset Bundle
-    - Shader Graph
-    - Network
-    - Editor
-    - MixAndJam
-    - CardsRPG1
-    - CardsRPG2
-    - DNF1
-    - DNF2
-    - Questions
+    - CSharp:                 "#"
+    - Unity:                  "#"
+    - Asset Bundle:           "#"
+    - Shader Graph:           "#"
+    - Network:                "#"
+    - Editor:                 "#"
+    - MixAndJam:              "#"
+    - CardsRPG1:              "#"
+    - CardsRPG2:              "#"
+    - DNF1:                   "#"
+    - DNF2:                   "#"
+    - Questions:              "#"
   Server:
-    - ASP.Net Core Web API
-    - MongoDB
+    - ASP.Net Core Web API:   "#"
+    - MongoDB:                "#"
   GameEngine:
-    - CPP
-    - OpenGL
-    - TdGame
-  About: aboutme
+    - CPP:                    "#"
+    - OpenGL:                 "#"
+    - TdGame:                 "#"
+  About: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
